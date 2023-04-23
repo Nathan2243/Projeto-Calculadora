@@ -1,1 +1,1 @@
-Projeto calculadora com PySide9 
+Projeto calculadora com PySide6
